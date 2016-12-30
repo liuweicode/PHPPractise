@@ -1,0 +1,11 @@
+[16-12-29 03:12:26] Code:  -  Message: 
+[16-12-29 03:12:14] Code:  -  Message: 
+[16-12-29 03:12:15] Code:  -  Message: 
+[16-12-29 03:12:03] Code:  -  Message: 
+[16-12-29 03:12:34] Code:  -  Message: 
+[16-12-29 03:12:00] Code:  -  Message: 
+[16-12-29 03:12:01] Code:  -  Message: 
+[16-12-29 03:12:08] Code:  -  Message: 
+[16-12-29 03:12:51] Code:  -  Message: 
+[16-12-29 03:12:45] Code: 1049 -  Message: Unknown database '123'
+[16-12-29 03:12:33] Code: 1049 -  Message: Unknown database '123'

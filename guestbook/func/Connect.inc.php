@@ -26,5 +26,5 @@ function common_db_mysql_connect() {
         die('Can not connect.');
     }
 
-    echo 'Connected';
+    //echo 'Connected';
 }

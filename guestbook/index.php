@@ -9,4 +9,5 @@ include_once ("Menu.php");
 
 echo "Hello Guest Book";
 
+    phpinfo();
 ?>
