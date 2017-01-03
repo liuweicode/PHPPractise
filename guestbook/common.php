@@ -15,3 +15,5 @@ include_once ("./config.inc.php");
 include_once (ABSOLUTE_PATH . "func/common.func.php");
 
 //echo constant("ABSOLUTE_PATH");
+
+

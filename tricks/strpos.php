@@ -8,4 +8,5 @@ if (strpos($authors, 'Chris') !== false) {
     echo 'Chris is not an author.';
 }
 
+
 ?>
