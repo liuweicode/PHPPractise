@@ -18,9 +18,11 @@
       <library name="PHARS">
         <CLASSES>
           <root url="phar://$MODULE_DIR$/ZendSkeletonApplication/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/SimplePHPBloggingSystem/composer.phar/" />
         </CLASSES>
         <SOURCES>
           <root url="phar://$MODULE_DIR$/ZendSkeletonApplication/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/SimplePHPBloggingSystem/composer.phar/" />
         </SOURCES>
       </library>
     </orderEntry>

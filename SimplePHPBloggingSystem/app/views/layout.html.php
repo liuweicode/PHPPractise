@@ -11,10 +11,10 @@
 	<link rel="alternate" type="application/rss+xml" title="<?php echo config('blog.title')?>  Feed" href="<?php echo site_url()?>rss" />
 
 	<link href="<?php echo site_url() ?>assets/css/style.css" rel="stylesheet" />
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext" rel="stylesheet" />
+	<link href="<?php echo site_url() ?>assets/css/fonts.google.com.css" rel="stylesheet" />
 
 	<!--[if lt IE 9]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="<?php echo site_url() ?>assets/js/html5shiv.js"></script>
 	<![endif]-->
 	
 </head>
